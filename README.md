@@ -85,5 +85,8 @@
 
 -[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuwiniShashipraba&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=RuwiniShashipraba&color=blueviolet)
+
 ### 🏆: GitHub Trophy:
-[![trophy](https://github-profile-trophy.vercel.app/?username=RuwiniShashipraba)](https://github.com/RuwiniShashipraba/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RuwiniShashipraba&theme=dark_lover)](https://github.com/RuwiniShashipraba/github-profile-trophy)
+
