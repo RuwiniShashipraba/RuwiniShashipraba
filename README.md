@@ -84,3 +84,6 @@
 
 
 -[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuwiniShashipraba&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🏆: GitHub Trophy:
+[![trophy](https://github-profile-trophy.vercel.app/?username=RuwiniShashipraba)](https://github.com/RuwiniShashipraba/github-profile-trophy)
