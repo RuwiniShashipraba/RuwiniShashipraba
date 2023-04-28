@@ -77,7 +77,7 @@
   </a>
 </div>
 
-### :fire: My Stats :
+### 🔥: My Stats :
 -[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RuwiniShashipraba&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RuwiniShashipraba)
@@ -85,7 +85,9 @@
 
 -[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuwiniShashipraba&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=RuwiniShashipraba&color=blueviolet)
+### ❤️: Profile View :
+
+![](https://komarev.com/ghpvc/?username=RuwiniShashipraba&color=blueviolet&style=for-the-badge)
 
 ### 🏆: GitHub Trophy:
 [![trophy](https://github-profile-trophy.vercel.app/?username=RuwiniShashipraba&theme=dark_lover)](https://github.com/RuwiniShashipraba/github-profile-trophy)
